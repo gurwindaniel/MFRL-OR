@@ -1,11 +1,11 @@
 # Ignore everything on scratch by default, except manet-opportunistic-meanfield-routing
 /*
-!.gitignore
+.gitignore
 !manet-opportunistic-meanfield-routing.cc
-!CMakeLists.txt
-!manet_results.csv
-!microsoft.gpg
-!nested-subdir/
-!run_experiments.sh
-!scratch-simulator.cc
-!subdir/
+CMakeLists.txt
+manet_results.csv
+microsoft.gpg
+nested-subdir/
+run_experiments.sh
+scratch-simulator.cc
+subdir/
