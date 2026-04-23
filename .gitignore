@@ -1,7 +1,6 @@
 # Ignore everything on scratch by default, except manet-opportunistic-meanfield-routing
 /*
 .gitignore
-!manet-opportunistic-meanfield-routing.cc
 CMakeLists.txt
 manet_results.csv
 microsoft.gpg
